@@ -1,9 +1,92 @@
-# Mobile App Prototype Progress
+# Mobile Apps Prototype Progress
+
+16/9/2024:
+1. Complete Intro Page 
+   - logo
+   - product image 
+   - get started button
+2. Complete Sign Up & Login Page 
+   - email
+   - username
+   - password 
+   - confirm password
+   - remember me
+   - forgot password
+
+17/9/2024:
+3. Complete Home Page 
+   - profile
+   - navigation buttons (home, shop, cart, favourite)
+   - search bar
+   - shortcut
+   - promotion banner
+   - flash sale
+4. Complete Product Listings 
+   - navigation buttons (home, shop, cart, favourite)
+   - back button
+   - product images, names and prices
+5. Complete Product Details 
+   - back button
+   - product image, name, and price
+   - number of sold
+   - product description
+   - add to chart button
+6. Complete Favourite Screen 
+   - back button 
+   - navigation buttons (home, shop, cart, favourite)
+   - product images, names and prices
+7. Complete Cart Screen 
+   - back button
+   - delete button 
+   - product image, name, and price
+   - add promotion code button
+   - check out button
 
 
+# Mobile Apps Manual Progress
 
-# Mobile App Manual Progress
+16/9/2024:
+1. Create the base of user manual (design, templates, colours, theme)
+   - introduction 
+   - purpose of the Salwa Scarves mobile app
+   - define target audience
+   - dashboard overview
+   - elaborated profile screen
+   - elaborated search bar
+   - elaborated navigation
+2. Navigation guide
+   -explained shop
+   -explained cart
+   - explained profile information
+   - explained customer support
+   - explained my order
+   - explained favourites
+
+19/9/2024:
+3. added details and photos of the app
+   - added photos of the mobile app into the user manual
 
 
 # Semi-functional Website Progress
+
+23/9/2024:
+1. Complete homepage
+   - navigation buttons (home, shop, contact, our story, gift card)
+2. Complete Product page
+   - product images, names, prices
+   - 'add to cart' button
+   - 'buy now' button
+3. Complete contact information
+   - shop address
+   - time operation
+   - phone number
+4. Complete about page
+5. Complete gift card page
+   - price
+   - information details
+   - 'buy now' button
+6. Complete cart page
+   - 'buy now' button
+7. Complete order page
+8. Complete customer profile
 
