@@ -31,7 +31,7 @@
    - number of sold
    - product description
    - add to chart button
-6. Favourite Screen 
+6. Complete Favourite Screen 
    - back button 
    - navigation buttons (home, shop, cart, favourite)
    - product images, names and prices
@@ -78,7 +78,48 @@
 
 # Mobile Apps Manual Progress
 
+16/9/2024:
+1. Create the base of user manual (design, templates, colours, theme)
+   - introduction 
+   - purpose of the Salwa Scarves mobile app
+   - define target audience
+   - dashboard overview
+   - elaborated profile screen
+   - elaborated search bar
+   - elaborated navigation
+2. Navigation guide
+   -explained shop
+   -explained cart
+   - explained profile information
+   - explained customer support
+   - explained my order
+   - explained favourites
+
+19/9/2024:
+3. added details and photos of the app
+   - added photos of the mobile app into the user manual
 
 
 # Semi-functional Website Progress
+
+23/9/2024:
+1. Complete homepage
+   - navigation buttons (home, shop, contact, our story, gift card)
+2. Complete Product page
+   - product images, names, prices
+   - 'add to cart' button
+   - 'buy now' button
+3. Complete contact information
+   - shop address
+   - time operation
+   - phone number
+4. Complete about page
+5. Complete gift card page
+   - price
+   - information details
+   - 'buy now' button
+6. Complete cart page
+   - 'buy now' button
+7. Complete order page
+8. Complete customer profile
 
