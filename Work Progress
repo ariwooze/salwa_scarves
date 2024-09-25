@@ -41,6 +41,40 @@
    - product image, name, and price
    - add promotion code button
    - check out button
+6. Favourite Screen 
+   - back button 
+   - navigation buttons (home, shop, cart, favourite)
+   - product images, names and prices
+7. Complete Cart Screen 
+   - back button
+   - delete button 
+   - product image, name, and price
+   - add promotion code button
+   - check out button
+8. Check Out Screen 
+   - back button
+   - subtotal, shipping cost, tax, and total cost
+   - shipping address button
+   - method button button
+   - place order button
+9. Order Placed Screen 
+   - check your order here button 
+10. Delivery Page 
+   - back button 
+   - track button 
+   - estimated delivery date
+   - current update of the order
+11. Profile Screen 
+   - back button
+   - user's account information 
+   - payment method button 
+   - user's orders button 
+   - cancellation button 
+   - location button
+   - shipping address button 
+   - help center button
+   - chat with Salwa Scarves button
+   - share feedback button 
 
 
 # Mobile Apps Manual Progress
