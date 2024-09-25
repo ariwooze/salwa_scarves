@@ -1,12 +1,12 @@
 # salwa_scarves
 This repository is used to keep track on all the progress for our group project aka Salwa Scarves :)
 
-## Group members:
-- Ariana Falisya
-- Dinie Amanda
-- Enath Jameela
-- Syamimi Batrisyia
-- Wan Hanani Iman
+## Group members & their tasks:
+- Enath Jameela (Website)
+- Ariana Falisya (Mobile App)
+- Syamimi Batrisyia (Mobile App)
+- Dinie Amanda (User Manual)
+- Wan Hanani Iman (User Manual)
 
 ## About Salwa Scarves:
 Salwa Scarves is an inclusive scarves company that offers fashionable and functional products for people of all races, religions, and backgrounds. The brand provides a diverse range of scarves designed to cater to various styles and preferences. Salwa Scarves emphasizes comfort, versatility, and universal appeal, ensuring their products meet the needs of a wide audience. In addition to high-quality scarves, the company offers a comprehensive set of services, including a website, a mobile app for convenient shopping, and a user manual to help customers navigate the app, creating a seamless and personalized shopping experience.
