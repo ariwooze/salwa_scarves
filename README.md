@@ -1,4 +1,4 @@
-# salwa_scarves
+# Salwa Scarves
 This repository is used to keep track on all the progress for our group project aka Salwa Scarves :)
 
 ## Group members & their tasks:
